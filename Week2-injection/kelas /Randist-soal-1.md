@@ -18,9 +18,11 @@
 - ubah Data email menjadi: **(' OR '1'='1' --) atau (' OR true--)** 
 - fungsi dari hal tersebut adalah untuk membuat perintah SQL agar selalu **benar**, sehingga password tidak lagi dicek.
 - dalam kasus saya, saya menggunakan (' OR true--)  
+<img width="1919" height="980" alt="Screenshot 2025-09-09 205929" src="https://github.com/user-attachments/assets/3a167ee7-ddc3-4bb3-80a7-e3bb5f7f19f7" />
 
 
 ---
 
 ## 3. berhasil login sebagai admin
+<img width="1919" height="942" alt="Screenshot 2025-09-09 205938" src="https://github.com/user-attachments/assets/82d43c72-ac72-44e3-9ac5-73388e955d48" />
 
