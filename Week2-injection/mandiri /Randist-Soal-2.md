@@ -1,4 +1,4 @@
-# Soal 1 picoctf: SQLiLite
+# Soal 2 picoctf: SQLiLite
 
 ## Randist Prawandha Putera 5027231059
 
