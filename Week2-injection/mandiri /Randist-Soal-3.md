@@ -1,4 +1,4 @@
-# Soal 1 picoctf: No SQL Injection
+# Soal 3 picoctf: No SQL Injection
 
 ## Randist Prawandha Putera 5027231059
 
