@@ -5,9 +5,10 @@
 # Langkah-langkah pengerjaan
 
 ## 1. Cari username dan login
-- buka login page
+- amati user dengan keyword bender pada product review
 - Login sebagai bender seperti cara login ke jim untuk mendapatkan akses sebagai bender
 <img width="494" height="609" alt="image" src="https://github.com/user-attachments/assets/8fb73cdf-3654-4e53-923d-c4539943aab6" />
+- lanjut ke login page
 <img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/070d1c70-b5ab-452b-b907-93ba40671fdb" />
 
 ---
