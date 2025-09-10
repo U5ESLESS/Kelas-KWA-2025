@@ -4,5 +4,7 @@
 
 # Langkah-langkah pengerjaan
 
-## 
+## 1.
+
+
 
