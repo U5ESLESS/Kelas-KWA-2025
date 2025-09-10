@@ -21,5 +21,5 @@
 
 ---
 
-## 3. berhasil login sebagai admin
+## 3. berhasil login sebagai jim
 <img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/057e6c25-71d3-42da-bc1e-1e80f42d507f" />
